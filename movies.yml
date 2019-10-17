@@ -1,0 +1,16 @@
+---
+1: !ruby/object:Movie
+  title: Blade Runner
+  director: Ridley Scott
+  year: '1986'
+  id: 1
+2: !ruby/object:Movie
+  title: Total Recall
+  director: Paul Verhoeven
+  year: '1990'
+  id: 2
+3: !ruby/object:Movie
+  title: Robocop
+  director: Paul Verhoeven
+  year: '1987'
+  id: 3
