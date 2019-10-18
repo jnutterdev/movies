@@ -14,3 +14,13 @@
   director: Paul Verhoeven
   year: '1987'
   id: 3
+4: !ruby/object:Movie
+  title: Robocop
+  director: Paul Verhoeven
+  year: '1987'
+  id: 4
+5: !ruby/object:Movie
+  title: Star Wars
+  director: George Lucas
+  year: '1977'
+  id: 5
