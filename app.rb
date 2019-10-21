@@ -21,3 +21,7 @@ post('/movies/create') do
     store.save(@movie)
     redirect 'movies/new'
 end
+
+get('/movies/:id') do
+    "Received a request for movie ID: #{params['id']}"
+end
