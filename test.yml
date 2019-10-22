@@ -1,9 +1,0 @@
----
-Spirited Away: !ruby/object:Movie
-  title: Spirited Away
-  director: Hayao Miyazaki
-  year: 2001
-Inception: !ruby/object:Movie
-  title: Inception
-  director: Christopher Nolan
-  year: 2010
